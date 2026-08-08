@@ -1,112 +1,284 @@
-# Hi, I'm Mano 👋
+<!-- ===================== HEADER ===================== -->
 
-### Full-Stack Web Developer | HND IT Student
+<div align="center">
 
-I’m a passionate IT student and Full-Stack Web Developer from Sri Lanka, focused on building modern, responsive, and user-friendly web applications.
+# 👋 Hi, I'm Mano
 
-I enjoy turning ideas into real-world digital solutions and continuously improving my skills through practical projects.
+### 💻 Full-Stack Web Developer | 🎓 HND IT Student
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;PHP+%7C+MySQL+%7C+JavaScript+%7C+React;UI%2FUX+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br>
+
+<a href="https://github.com/thangarajamanohasan">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/thangarajamanohasan?tab=followers">
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Currently pursuing **HND in Information Technology**
+I'm a passionate **Full-Stack Web Developer and IT student from Sri Lanka**, focused on creating modern, responsive, user-friendly, and database-driven web applications.
+
+I enjoy transforming ideas into practical digital solutions and continuously improving my development skills by building real-world projects.
+
+* 🎓 **HND in Information Technology**
 * 💻 Full-Stack Web Developer
-* 🌐 Interested in **Web Development & UI/UX Design**
-* 🚀 Building real-world web applications and management systems
-* 🗄️ Experienced with database-driven applications
-* 🎨 Passionate about creating clean and modern user interfaces
-* 📚 Continuously learning new technologies and development practices
+* 🌐 Passionate about Web Development
+* 🎨 Interested in UI/UX Design
+* 🗄️ Experienced with Database-driven Applications
+* 🚀 Building Real-world Projects
+* 📚 Continuously Learning New Technologies
+* 🌱 Exploring Modern Full-Stack Development
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Tech Stack
 
-### Frontend
+### 🌐 Frontend
 
-HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,typescript" />
+</p>
 
-### Backend
+### ⚙️ Backend & Database
 
-PHP • MySQL • MariaDB
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,mongodb" />
+</p>
 
-### Programming
+### 🛠️ Tools & Platforms
 
-JavaScript • PHP • C#
-
-### Tools & Platforms
-
-Git • GitHub • VS Code • Figma • Vercel
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌿 Tea Trails Community Tours
 
 A tourism management and booking platform designed for Sri Lankan upcountry tourism.
 
-**Tech:** PHP • MySQL • Tailwind CSS • JavaScript
+**Features**
+
+* 🏨 Room Booking
+* 🧳 Tour Packages
+* 👤 User Management
+* 📅 Booking Management
+* ⭐ Reviews
+* 🛠️ Admin Dashboard
+
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript` `Tailwind CSS`
+
+</td>
+
+<td width="50%">
 
 ### 🚗 Autocare Hub
 
-A vehicle service, appointment, roadside assistance, and vehicle management system.
+A vehicle service and roadside assistance management system designed to simplify vehicle maintenance and service booking.
 
-**Tech:** PHP • MySQL • Bootstrap • JavaScript
+**Features**
+
+* 🚘 Vehicle Management
+* 🔧 Service Booking
+* 📅 Appointments
+* 🆘 Roadside Assistance
+* 💳 Payment Integration
+* 📊 Reports
+
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 💼 Personal Portfolio
 
-A modern developer portfolio showcasing my skills, projects, experience, and services.
+A modern and responsive developer portfolio showcasing my skills, projects, services, and professional profile.
 
-**Tech:** React • TypeScript • Tailwind CSS
+**Highlights**
+
+* ✨ Modern UI
+* 📱 Responsive Design
+* 🎬 Smooth Animations
+* 🌓 Dark / Light Mode
+* 📩 Contact Form
+* 🚀 Vercel Deployment
+
+**Tech Stack**
+
+`React` `TypeScript` `Tailwind CSS`
+
+</td>
+
+<td width="50%">
 
 ### 🎓 Student Registration System
 
-A student and course management system designed to simplify registration and administrative processes.
+A web-based student and course management system designed to simplify student registration and administrative processes.
 
-**Tech:** PHP • MySQL
+**Features**
+
+* 👨‍🎓 Student Registration
+* 📚 Course Management
+* 🔐 Authentication
+* 🗄️ Database Management
+* 📊 Admin Dashboard
+
+**Tech Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💡 What I Do
 
-* 🌐 Web Application Development
-* 💻 Full-Stack Development
-* 🎨 UI/UX Design
-* 🗄️ Database Design & Management
-* 📱 Responsive Web Design
-* ⚙️ Business & Management Systems
-* 🚀 Website Deployment
+```text
+🌐 Web Application Development
+💻 Full-Stack Development
+🎨 UI/UX Design
+🗄️ Database Design & Management
+📱 Responsive Web Design
+⚙️ Business Management Systems
+🔐 Authentication & Security
+🔗 API Integration
+🚀 Website Deployment
+```
 
 ---
 
-## 📈 Currently Learning
+## 🌱 Currently Learning
 
-* Advanced React & TypeScript
-* Modern UI/UX Design
-* Full-Stack Application Architecture
-* API Integration
-* Cloud Deployment
-* SaaS Application Development
-
----
-
-## 🎯 My Goal
-
-To become a highly skilled Full-Stack Developer and build innovative, scalable, and impactful digital products that solve real-world problems.
+* ⚛️ Advanced React & TypeScript
+* 🏗️ Modern Full-Stack Architecture
+* 🔌 REST API Development
+* ☁️ Cloud Deployment & Hosting
+* 🎨 Advanced UI/UX
+* 🤖 AI Integration
+* 🚀 SaaS Application Development
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Statistics
 
-💼 **Portfolio:** Coming Soon
+<div align="center">
 
-🔗 **LinkedIn:** Coming Soon
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-📧 **Email:** Available on request
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🔥 GitHub Streak
 
-**Building ideas. Creating solutions. Growing every day.**
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## 🎯 My Developer Journey
+
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+💻 Development
+   ↓
+🗄️ Database
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+   ↓
+📈 Continuous Improvement
+```
+
+---
+
+## 🏆 Goals
+
+* 🚀 Become a highly skilled Full-Stack Developer
+* 🌍 Build products that solve real-world problems
+* 💡 Create innovative SaaS applications
+* 🧠 Continuously improve my technical skills
+* 🤝 Collaborate with developers and organizations
+* 🌐 Build a strong professional developer presence
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/thangarajamanohasan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thangaraja-manohasan-973871312/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ptc7.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:donalmano2743@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Build. Learn. Create. Repeat. 🚀
+
+**Thanks for visiting my GitHub profile!**
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
