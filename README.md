@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/thangarajamanohasan">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=thangarajamanohasan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/thangarajamanohasan?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/thangarajamanohasan?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
 </a>
 
 </div>
@@ -188,9 +188,9 @@ A web-based student and course management system designed to simplify student re
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thangarajamanohasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangarajamanohasan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -200,7 +200,7 @@ A web-based student and course management system designed to simplify student re
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=thangarajamanohasan&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -210,7 +210,7 @@ A web-based student and course management system designed to simplify student re
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/thangarajamanohasan/thangarajamanohasan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 
 </div>
 
