@@ -1,284 +1,36 @@
-<!-- ===================== HEADER ===================== -->
-
-<div align="center">
-
-# 👋 Hi, I'm Mano
-
-### 💻 Full-Stack Web Developer | 🎓 HND IT Student
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;PHP+%7C+MySQL+%7C+JavaScript+%7C+React;UI%2FUX+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br>
-
-<a href="https://github.com/thangarajamanohasan">
-  <img src="https://komarev.com/ghpvc/?username=thangarajamanohasan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/thangarajamanohasan?tab=followers">
-  <img src="https://img.shields.io/github/followers/thangarajamanohasan?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
-</a>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate **Full-Stack Web Developer and IT student from Sri Lanka**, focused on creating modern, responsive, user-friendly, and database-driven web applications.
-
-I enjoy transforming ideas into practical digital solutions and continuously improving my development skills by building real-world projects.
-
-* 🎓 **HND in Information Technology**
-* 💻 Full-Stack Web Developer
-* 🌐 Passionate about Web Development
-* 🎨 Interested in UI/UX Design
-* 🗄️ Experienced with Database-driven Applications
-* 🚀 Building Real-world Projects
-* 📚 Continuously Learning New Technologies
-* 🌱 Exploring Modern Full-Stack Development
-
----
-
-## ⚡ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,typescript" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌿 Tea Trails Community Tours
-
-A tourism management and booking platform designed for Sri Lankan upcountry tourism.
-
-**Features**
-
-* 🏨 Room Booking
-* 🧳 Tour Packages
-* 👤 User Management
-* 📅 Booking Management
-* ⭐ Reviews
-* 🛠️ Admin Dashboard
-
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🚗 Autocare Hub
-
-A vehicle service and roadside assistance management system designed to simplify vehicle maintenance and service booking.
-
-**Features**
-
-* 🚘 Vehicle Management
-* 🔧 Service Booking
-* 📅 Appointments
-* 🆘 Roadside Assistance
-* 💳 Payment Integration
-* 📊 Reports
-
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript` `Bootstrap`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💼 Personal Portfolio
-
-A modern and responsive developer portfolio showcasing my skills, projects, services, and professional profile.
-
-**Highlights**
-
-* ✨ Modern UI
-* 📱 Responsive Design
-* 🎬 Smooth Animations
-* 🌓 Dark / Light Mode
-* 📩 Contact Form
-* 🚀 Vercel Deployment
-
-**Tech Stack**
-
-`React` `TypeScript` `Tailwind CSS`
-
-</td>
-
-<td width="50%">
-
-### 🎓 Student Registration System
-
-A web-based student and course management system designed to simplify student registration and administrative processes.
-
-**Features**
-
-* 👨‍🎓 Student Registration
-* 📚 Course Management
-* 🔐 Authentication
-* 🗄️ Database Management
-* 📊 Admin Dashboard
-
-**Tech Stack**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 What I Do
-
-```text
-🌐 Web Application Development
-💻 Full-Stack Development
-🎨 UI/UX Design
-🗄️ Database Design & Management
-📱 Responsive Web Design
-⚙️ Business Management Systems
-🔐 Authentication & Security
-🔗 API Integration
-🚀 Website Deployment
-```
-
----
-
-## 🌱 Currently Learning
-
-* ⚛️ Advanced React & TypeScript
-* 🏗️ Modern Full-Stack Architecture
-* 🔌 REST API Development
-* ☁️ Cloud Deployment & Hosting
-* 🎨 Advanced UI/UX
-* 🤖 AI Integration
-* 🚀 SaaS Application Development
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thangarajamanohasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangarajamanohasan&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=thangarajamanohasan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thangarajamanohasan/thangarajamanohasan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🎯 My Developer Journey
-
-```text
-💡 Idea
-   ↓
-🎨 Design
-   ↓
-💻 Development
-   ↓
-🗄️ Database
-   ↓
-🧪 Testing
-   ↓
-🚀 Deployment
-   ↓
-📈 Continuous Improvement
-```
-
----
-
-## 🏆 Goals
-
-* 🚀 Become a highly skilled Full-Stack Developer
-* 🌍 Build products that solve real-world problems
-* 💡 Create innovative SaaS applications
-* 🧠 Continuously improve my technical skills
-* 🤝 Collaborate with developers and organizations
-* 🌐 Build a strong professional developer presence
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/thangarajamanohasan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thangaraja-manohasan-973871312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-ptc7.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:donalmano2743@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Build. Learn. Create. Repeat. 🚀
-
-**Thanks for visiting my GitHub profile!**
-
-⭐ Feel free to explore my repositories and projects.
-
-</div>
-
-<!-- ===================== FOOTER ===================== -->
+<h1 align="center">Hi 👋, I'm Mano</h1> <h3 align="center">Aspiring Full-Stack Web Developer | IT Undergraduate | Building WebCraft Creations 🚀</h3> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=2F6B1F&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+JavaScript;React+%2F+Vite+Enthusiast;Building+WebCraft+Creations+%F0%9F%9A%80;Turning+Ideas+Into+Real+Web+Apps" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2F6B1F&style=flat" alt="profile views" /> <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-D4A017?style=flat&logo=briefcase&logoColor=white" alt="status" /> </p>
+🧑‍💻 About Me
+🎓 Currently pursuing HND in Information Technology at SLIATE, Nawalapitiya
+🛠️ Completed NVQ Level 4 in ICTT at Thondaman Vocational Training Centre (TVTC)
+💼 Founder of WebCraft Creations — building websites, UI/UX, and custom web systems for real clients
+🌱 Currently expanding from Core PHP into React / Vite and exploring SaaS + AI-driven products
+💡 I enjoy building full systems end-to-end: database design, APIs, payments, and deployment — not just UI
+📫 Reach me on Instagram / social: @build_with_mano
+🚀 Featured Projects
+<table> <tr> <td width="50%"> <b>🍃 Tea Trails Community Tours</b><br/> Upcountry Sri Lanka tourism management system — room & package booking, admin dashboard, PDF invoices, WhatsApp & email confirmations.<br/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> </td> <td width="50%"> <b>🚗 AutoCare Hub</b><br/> Vehicle service & roadside assistance platform — Google Maps tracking, AI fault diagnosis, service booking, and reporting.<br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> </td> </tr> <tr> <td width="50%"> <b>🎓 TVTC Student Registration System</b><br/> Student & course management system for a vocational training center — registration, applications, and course tracking.<br/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> </td> <td width="50%"> <b>🖥️ Personal Portfolio</b><br/> Fully responsive portfolio with an admin dashboard, project stats, SEO/sitemap setup, and CI-style Vercel deployment.<br/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> </td> </tr> </table>
+🛠️ Tech Stack
+
+Frontend
+
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p>
+
+Backend & Database
+
+<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> </p>
+
+Tools & Platforms
+
+<p> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/> </p>
+
+Payments & Integrations
+
+<p> <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/> </p>
+🌱 Currently Exploring
+Modern React / Vite development
+Building a SaaS product instead of another CRUD system
+AI-assisted features (fault diagnosis, recommendations, voice assistants)
+Software testing & QA fundamentals as part of my HND coursework
+📫 Connect With Me
+<p align="center"> <a href="https://instagram.com/build_with_mano" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:your-email@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://your-portfolio-url.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-2F6B1F?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6B1F&height=120&section=footer" alt="footer wave"/> </p>
