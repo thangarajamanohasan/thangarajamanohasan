@@ -1,9 +1,5 @@
 <div align="center">
 
-![Mano — Web Developer](assets/header.svg)
-
-
-
 **Web Developer · UI Designer · HNDIT Student**  
 Sri Lanka 🇱🇰 · 
 
