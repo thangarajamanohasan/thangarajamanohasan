@@ -2,12 +2,10 @@
 
 ![Mano — Web Developer](assets/header.svg)
 
-<a href="https://thangaraja-manohasan-portfolio-y63u.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+ideas+into+digital+experiences.;React+%2B+TypeScript+%7C+PHP+%2B+Laravel;Thoughtful+design.+Practical+solutions." alt="Animated developer introduction" />
-</a>
+
 
 **Web Developer · UI Designer · HNDIT Student**  
-Sri Lanka 🇱🇰 · WebCraft Creations
+Sri Lanka 🇱🇰 · 
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://thangaraja-manohasan-portfolio-y63u.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangaraja-manohasan-973871312/)
